@@ -1,0 +1,11 @@
+c:/users/123/contacts/documents/visual studio 2015/Projects/MyWPFSnakeGame/SnakeClassLibrary/bin/Debug/SnakeClassLibrary.dll
+c:/users/123/contacts/documents/visual studio 2015/Projects/MyWPFSnakeGame/SnakeClassLibrary/bin/Debug/SnakeClassLibrary.pdb
+c:/users/123/contacts/documents/visual studio 2015/Projects/MyWPFSnakeGame/SnakeClassLibrary/obj/Debug/SnakeClassLibrary.csprojResolveAssemblyReference.cache
+c:/users/123/contacts/documents/visual studio 2015/Projects/MyWPFSnakeGame/SnakeClassLibrary/obj/Debug/SnakeClassLibrary.dll
+c:/users/123/contacts/documents/visual studio 2015/Projects/MyWPFSnakeGame/SnakeClassLibrary/obj/Debug/SnakeClassLibrary.pdb
+/Users/iurii1/Desktop/Iurii/MyWPFSnakeGame/SnakeClassLibrary/bin/Debug/SnakeClassLibrary.dll
+/Users/iurii1/Desktop/Iurii/MyWPFSnakeGame/SnakeClassLibrary/bin/Debug/SnakeClassLibrary.pdb
+/Users/iurii1/Desktop/Iurii/MyWPFSnakeGame/SnakeClassLibrary/obj/Debug/SnakeClassLibrary.csprojAssemblyReference.cache
+/Users/iurii1/Desktop/Iurii/MyWPFSnakeGame/SnakeClassLibrary/obj/Debug/SnakeClassLibrary.csproj.CoreCompileInputs.cache
+/Users/iurii1/Desktop/Iurii/MyWPFSnakeGame/SnakeClassLibrary/obj/Debug/SnakeClassLibrary.dll
+/Users/iurii1/Desktop/Iurii/MyWPFSnakeGame/SnakeClassLibrary/obj/Debug/SnakeClassLibrary.pdb
